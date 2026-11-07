@@ -24,3 +24,13 @@
 1. Установите нужные библиотеки (я добавил файл `requirements.txt`):
    ```bash
    pip install -r requirements.txt
+
+## Результаты
+
+<img width="809" height="662" alt="image" src="https://github.com/user-attachments/assets/59ab4281-ed09-4d91-aabe-427cf54cd9f9" />
+
+<img width="1170" height="418" alt="image" src="https://github.com/user-attachments/assets/023534d3-f7ae-4967-aa88-b87933087420" />
+
+<img width="676" height="317" alt="image" src="https://github.com/user-attachments/assets/97a10176-c301-4822-a8e4-750b4062189a" />
+
+
